@@ -1,5 +1,5 @@
-#-*- coding: UTF-8 -*-
-light=input('please input a light')
+# -*- coding: UTF-8 -*-
+light = input('please input a light')
 '''
 if light =='red':
     print('stop')
